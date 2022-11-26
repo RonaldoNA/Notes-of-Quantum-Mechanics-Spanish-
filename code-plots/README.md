@@ -1,1 +1,1 @@
-#plots an code on octave ddd
+# Plots and code on octave
